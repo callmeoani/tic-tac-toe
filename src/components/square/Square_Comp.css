@@ -1,0 +1,12 @@
+.square_comp {
+  background-color: rgb(179, 118, 7);
+  width: 80px;
+  height: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 2rem;
+  font-weight: 600;
+  border: solid white 2px;
+  color: rgb(61, 57, 57);
+}
